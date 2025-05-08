@@ -29,7 +29,7 @@ O **DIO Travels** é um agente conversacional voltado para auxiliar brasileiros 
 
 | Visão Geral do Agente | Tópico "Flight Status" |
 |-----------------------|------------------------|
-| ![Overview]((https://github.com/tedtheotheodoro/dio-copilot-2/blob/main/overwiew.png)) | ![Flight Status]((https://github.com/tedtheotheodoro/dio-copilot-2/blob/main/flight-status.png)) |
+| ![Overview](https://github.com/tedtheotheodoro/dio-copilot-2/blob/main/overwiew.png) | ![Flight Status](https://github.com/tedtheotheodoro/dio-copilot-2/blob/main/flight-status.png) |
 
 | Variáveis Criadas | Configuração de AI |
 |------------------|---------------------|
