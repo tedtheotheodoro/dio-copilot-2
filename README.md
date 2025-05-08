@@ -35,6 +35,13 @@ O **DIO Travels** é um agente conversacional voltado para auxiliar brasileiros 
 |------------------|---------------------|
 | ![Variables](https://github.com/tedtheotheodoro/dio-copilot-2/blob/main/variables.png) | ![AI Settings](https://github.com/tedtheotheodoro/dio-copilot-2/blob/main/ai-settings.png) |
 
+## Testes Realizados
+
+Foi utilizado o ambiente de simulação do Copilot Studio para validar o comportamento do agente. As respostas estavam coerentes com o fluxo programado.
+
+## Referências
+
+- [Documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
 
 ## Conclusão
 
