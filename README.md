@@ -42,4 +42,4 @@ O desafio foi uma excelente introdução ao uso do Microsoft Copilot Studio, mos
 
 ---
 
-Projeto desenvolvido por [Theodoro Fraga de Castro]((http://linkedin.com/in/theodoro-fraga-b3602332b/))
+Projeto desenvolvido por [Theodoro Fraga de Castro](http://linkedin.com/in/theodoro-fraga-b3602332b/)
